@@ -1,0 +1,1 @@
+kubectl --namespace=qos-example $@
